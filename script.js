@@ -52,7 +52,7 @@ let products = [
   },
   {
     id: 7,
-    name: "coke",
+    name: "Coke",
     image: "coke.png",
     price: 12_000,
   },
@@ -64,7 +64,7 @@ let products = [
   },
   {
     id: 9,
-    name: "mineral",
+    name: "Mineral",
     image: "mineral.png",
     price: 5_000,
   },
