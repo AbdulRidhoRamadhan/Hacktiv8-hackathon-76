@@ -45,10 +45,11 @@ header .shopping span {
   margin-top: 50px;
 }
 .list .item {
+  border-radius: 10px;
   text-align: center;
   background-color: #dce0e1;
   padding: 20px;
-  box-shadow: 0 20px 20px #757676;
+  box-shadow: 0 5px 5px #757676;
   letter-spacing: 1px;
 }
 .list .item img {
