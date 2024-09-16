@@ -23,6 +23,7 @@ header .shopping {
 }
 header .shopping img {
   width: 40px;
+  cursor: pointer;
 }
 header .shopping span {
   background: red;
@@ -66,7 +67,14 @@ header .shopping span {
   color: #fff;
   width: 100%;
   padding: 10px;
+  border-radius: 10px;
+  border: none;
 }
+.list .item button:hover {
+  background-color: grey;
+  cursor: pointer;
+}
+
 .card {
   position: fixed;
   top: 0;
@@ -129,6 +137,7 @@ header .shopping span {
 .listCard li button {
   background-color: #fff5;
   border: none;
+  cursor: pointer;
 }
 .listCard .count {
   margin: 0 10px;
